@@ -35,10 +35,11 @@ function App() {
      </div>
 
      //Project 9 
+     <FormValidation />
 
       */}
       
-     <FormValidation />
+     
     </>
   )
 }
